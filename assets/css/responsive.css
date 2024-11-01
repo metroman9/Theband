@@ -1,0 +1,70 @@
+/* Moblie */
+@media (max-width: 739px){
+    /* Common */
+    .s-mt-8{
+        margin-top: 8px;
+    }
+    .s-full-width,
+    .s-col-full{
+        width: 100%;
+    }
+    /* Common */
+
+    /* Header Begin */
+    #header{
+        overflow: hidden;
+    }
+    
+    #header .menu-btn{
+        display: block;
+    }
+
+    #header .menu-btn:hover{
+        color: black;
+        background-color: #ccc;
+    }
+
+    #header .search-btn{
+        display: none;
+    }
+
+    /* Header Navbar */
+    #nav{
+        display: block;
+    }
+
+    #nav>li{
+        display: block;
+        overflow: initial;
+    }
+
+    #nav>li:first-child{
+        display: inline-block;
+    }
+
+    #nav .subnav{
+        position: initial;
+        background-color: #000;
+    }
+
+    #nav .subnav li a{
+        color: #fff;
+        padding: 4px 41px;
+    }
+    /* Header End */
+
+    /* Main Begin */
+    
+    /* Main End */
+
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px){
+
+}
+
+/* PC */
+@media (min-width: 1024px){
+
+}

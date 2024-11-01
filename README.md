@@ -1,4 +1,4 @@
-# Booking Tour Page Templates
+# The Band Page Templates
 
 **Setup**
 
